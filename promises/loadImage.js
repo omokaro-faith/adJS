@@ -1,4 +1,3 @@
-import 'idempotent-babel-polyfill';
 
 const loadImage = (url) => {
   let image = new Image()

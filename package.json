@@ -1,0 +1,27 @@
+{
+  "name": "fun-fun-function",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/omokaro-faith/fun-functions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omokaro-faith/fun-functions/issues"
+  },
+  "homepage": "https://github.com/omokaro-faith/fun-functions#readme",
+  "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-es2016": "^6.24.1",
+    "babel-preset-es2017": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1"
+  }
+}

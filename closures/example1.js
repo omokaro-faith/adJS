@@ -1,4 +1,4 @@
-var me = 'Omokaro Faith'
+let me = 'Omokaro Faith'
 const greetMe = () => {
   console.log(`Hello ${me} !`)
 }
